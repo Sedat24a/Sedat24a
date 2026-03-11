@@ -1,16 +1,22 @@
-## Hi there 👋
+// SEDAT //
+[ PROTOCOL ARCHITECT @ NEXUS-V ]
+[ DISTRIBUTED SYSTEMS / AGENTIC NETWORKS ]
 
-<!--
-**Sedat24a/Sedat24a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ CORE FOCUS ]
+- libp2p backbone implementation
+- Chromium-based agent orchestration
+- Edge-based integrity verification
 
-Here are some ideas to get you started:
+[ MANIFESTO ]
+"The web is broken. We are building the routing layer to fix it. 
+No central authority. No API gatekeepers. Just protocols."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// STACK //
+0x01: Go / Python
+0x02: libp2p / IPFS
+0x03: Chromium Automation
+0x04: DAG / Cryptographic Attestation
+
+[ CONTACT ]
+// PGP KEY / TBD
+// SIGNAL / TBD
